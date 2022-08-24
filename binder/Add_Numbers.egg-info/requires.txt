@@ -1,0 +1,5 @@
+matplotlib>=1.0.0
+numpy>=1.16.3
+pybind11>=2.2.0
+python-dateutil
+scipy>=1.6.0
